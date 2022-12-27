@@ -14,6 +14,13 @@ Anagram example:
 4. *jan is anagram of janisa but janisa is not an anagram of jan*
 5. *Emon is not anagram of emon*
 
+### Password strength checker: Based on symbol, character and digit counts
+#### passwordChecker.c
+Password strength checker checks the password strength based on symbol count, small letter count, capital letter count and digit counts.
+
+* *Password length must be greater than eqaul to 8.*
+* *Password must contains at least one symbol, one small letter, one capital letter and a digit.*
+
 ### Random number generator: 32-bit and 64-bit random number generator
 #### random.h
 It is a header file containing random number generator. 
