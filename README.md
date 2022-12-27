@@ -24,6 +24,16 @@ It is a header file containing random number generator.
 
 *Note: It does not work on windows*
 
+#### random.c
+It includes `random.h` file and generates 10 random numbers for 32-bit and 64-bit each.
+
+Compilation:
+
+`$gcc random.c`
+
+Running the code: 
+
+`$./a.out`
 
 ### Swap two integer variable
 #### swap.c
